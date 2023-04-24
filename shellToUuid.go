@@ -85,7 +85,7 @@ func generateRandomMatrix(rows, cols int) [][]float64 {
 	return matrix
 }
 
-// Add Lorenz system implementation
+
 type Lorenz struct {
 	X, Y, Z float64
 }
