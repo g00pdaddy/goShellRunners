@@ -1,7 +1,8 @@
 /*
 Pop-calc shellcode
 
-TODO: String obfuscation
+TODO: 
+  - String obfuscation
   - Rename variables and functions
   - Decryption routine for the hex shellcode (custom xor-routine combined with aes)
   - Additional obfuscation techniques (parse PEB to find func addrs)
